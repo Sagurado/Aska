@@ -1,0 +1,7 @@
+<Object>
+  <UInt name="version">25</UInt>
+  <String name="session Name">Kiwi</String>
+  <Bool name="is session Owner">True</Bool>
+  <String name="lastSaved">230426085456</String>
+  <Bool name="saveOk">True</Bool>
+</Object>
