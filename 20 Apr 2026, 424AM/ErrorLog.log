@@ -1,0 +1,11 @@
+Setting breakpad minidump AppID = 1898300
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198009781749 [API loaded no]
+Fatal error. System.AccessViolationException: Attempted to read or write protected memory. This is often an indication that other memory is corrupt.
+Repeat 2 times:
+--------------------------------
+   at Il2CppInterop.Runtime.IL2CPP.il2cpp_runtime_invoke(IntPtr, IntPtr, Void**, IntPtr ByRef)
+--------------------------------
+   at UnityEngine.Component.get_gameObject()
+   at QoLSuite.UI.SettingsMenuPatch.TabButtonOnSelectPrefix(SandSailorStudio.UI.TabButton)
+   at DynamicClass.DMD<SandSailorStudio.UI.TabButton::OnDeselect>(SandSailorStudio.UI.TabButton, UnityEngine.EventSystems.BaseEventData)
+   at DynamicClass.(il2cpp -> managed) OnDeselect(il2cpp -> managed) OnDeselect(IntPtr, IntPtr, Il2CppInterop.Runtime.Runtime.Il2CppMethodInfo*)

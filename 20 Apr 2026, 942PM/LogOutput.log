@@ -1,0 +1,29 @@
+[Message: Preloader] BepInEx 6.0.0-be.755 - Aska (21.04.2026 09:25:10)
+[Message: Preloader] Built from commit 3fab71a1914132a1ce3a545caf3192da603f2258
+[Info   :   BepInEx] System platform: Windows 10 64-bit
+[Info   :   BepInEx] Process bitness: 64-bit (x64)
+[Info   :   BepInEx] Running under Unity 6000.3.12f1
+[Info   :   BepInEx] Runtime version: 6.0.7
+[Info   :   BepInEx] Runtime information: .NET 6.0.7
+[Info   : Preloader] 0 patcher plugins loaded
+[Info   : Preloader] 0 assemblies discovered
+[Message:AssemblyPatcher] Executing 0 patch(es)
+[Message:   BepInEx] Chainloader initialized
+[Warning:Il2CppInterop] Class::Init signatures have been exhausted, using a substitute!
+[Info   :Il2CppInterop] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [QoL Suite 1.6.0]
+[Info   :QoLSuite.mzperX] "When the grey rain-curtain of this world rolls back, and all turns to silver glass, then you see it"
+[Info   :QoLSuite.mzperX] [CONFIG] Config initialised
+[Info   :QoLSuite.mzperX] [UI] Settings initialised
+[Info   :QoLSuite.mzperX] [MODULE.THIRST] Ready (multiplier=x0.9)
+[Info   :QoLSuite.mzperX] [MODULE.STACKSIZEOVERRIDE] Ready
+[Info   :QoLSuite.mzperX] [MODULE.PREVENTDEADBODYCOLLISION] Ready
+[Info   :QoLSuite.mzperX] [MODULE.MARKERRANGE] Ready
+[Info   :QoLSuite.mzperX] [MODULE.HUNGER] Ready (multiplier=x0.9)
+[Info   :QoLSuite.mzperX] [MODULE.HEAT] Ready (multiplier=x0.9)
+[Info   :Il2CppInterop] Registered mono type QoLSuite.Features.GroundItemPurge.GroundItemPurge+GroundItemPurgeRunner in il2cpp domain
+[Info   :QoLSuite.mzperX] [MODULE.GROUNDITEMPURGE] Ready
+[Info   :QoLSuite.mzperX] [MODULE.DISCOVERY] Disabled in config
+[Info   :QoLSuite.mzperX] [INIT] QoLSuite initialised
+[Message:   BepInEx] Chainloader startup complete
